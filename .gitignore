@@ -11,3 +11,8 @@ wheels/
 
 # Claude
 .claude/
+CLAUDE.md
+
+# local research clones
+research/repos/
+docs/
